@@ -1,0 +1,6 @@
+cat
+lat
+pat
+mat
+dad
+mom
